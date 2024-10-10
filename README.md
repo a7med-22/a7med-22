@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="400" />
+  <img src="https://raw.githubusercontent.com/a7med-22/a7med-22/refs/heads/main/coding-animation.gif" alt="Coding Animation" width="400" />
   <h1>👋 Hi, I'm Ahmed Osama</h1>
   <h3>A passionate frontend developer from Egypt</h3>
 </div>
