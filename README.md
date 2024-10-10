@@ -48,8 +48,3 @@ I’m a **4th-year Computer Engineering student** specializing in **React.js** a
   <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
-
-- 🌱 I’m currently learning **Node.js**
-- 💬 Ask me about **React** and **Next.js**
-- ⚡ Fun fact: **I am funny!**
