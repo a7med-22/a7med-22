@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm Ahmed Osama</h1>
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="350" style="margin-top: 20px; margin-bottom: 20px;" />
+  <h1>👋 Hi, I'm Ahmed Osama</h1>
 </div>
 
 ### 🌐 Frontend Developer | React.js | Next.js | Tailwind CSS | Bootstrap
