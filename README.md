@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/a7med-22/a7med-22/refs/heads/main/coding-animation.gif" alt="Coding Animation" width="400" />
+  <img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/a7med-22/a7med-22/refs/heads/main/coding-animation.gif" />
   <h1>👋 Hi, I'm Ahmed Osama</h1>
   <h3>A passionate frontend developer from Egypt</h3>
 </div>
@@ -14,7 +14,7 @@ I’m a **4th-year Computer Engineering student** specializing in **React.js** a
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -42,9 +42,8 @@ I’m a **4th-year Computer Engineering student** specializing in **React.js** a
 ---
 
 ### 📫 How to Reach Me
-<p align="center">
+<p align="left">
   <a href="mailto:ao6155518@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/ahmed-osama-8b2b27245" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 </p>
-
