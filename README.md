@@ -1,20 +1,19 @@
 <div align="center">
   <h1>👋 Hi, I'm Ahmed Osama</h1>
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="300" align="right" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="350" style="margin-top: 20px; margin-bottom: 20px;" />
 </div>
 
 ### 🌐 Frontend Developer | React.js | Next.js | Tailwind CSS | Bootstrap
 
-<p style="max-width=300px">I’m a **4th-year Computer Engineering student** specializing in **React.js** and **Next.js**, with expertise in creating **scalable**, **user-friendly** web applications. I enjoy solving complex problems and delivering visually appealing solutions that enhance the user experience.</p>
+I’m a **4th-year Computer Engineering student** specializing in **React.js** and **Next.js**, with expertise in creating **scalable** and **user-friendly** web applications. I enjoy solving complex problems and delivering visually appealing solutions that enhance the user experience.
 
 ---
 
 ### 🛠️ Tools & Technologies
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -33,7 +32,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a7med-22&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-22&theme=radical" alt="Ahmed's GitHub Streak" width="400" />
@@ -42,7 +40,6 @@
 ---
 
 ### 📫 How to Reach Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-osama-8b2b27245" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
