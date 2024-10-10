@@ -1,11 +1,11 @@
 <div align="center">
   <h1>👋 Hi, I'm Ahmed Osama</h1>
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="200" align="right" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="300" align="right" />
 </div>
 
 ### 🌐 Frontend Developer | React.js | Next.js | Tailwind CSS | Bootstrap
 
-I’m a **4th-year Computer Engineering student** specializing in **React.js** and **Next.js**, with expertise in creating **scalable**, **user-friendly** web applications. I enjoy solving complex problems and delivering visually appealing solutions that enhance the user experience.
+<p style="max-width=300px">I’m a **4th-year Computer Engineering student** specializing in **React.js** and **Next.js**, with expertise in creating **scalable**, **user-friendly** web applications. I enjoy solving complex problems and delivering visually appealing solutions that enhance the user experience.</p>
 
 ---
 
