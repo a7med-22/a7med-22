@@ -1,14 +1,21 @@
 # 👋 Hi, I'm Ahmed Osama
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="600"/>
-</p>
-
-### 💻 Frontend Developer | React.js | Next.js | Tailwind CSS | Bootstrap
-
-I'm a passionate **4th-year Computer Engineering student** specializing in **React.js** and **Next.js**, dedicated to building **scalable**, **user-friendly** web applications that solve complex problems and deliver an exceptional **user experience**.
-
-I enjoy creating dynamic and responsive interfaces while ensuring smooth performance and cross-browser compatibility. Always keen on learning, I am continuously expanding my skill set to stay ahead in the fast-paced tech world.
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="text-align: left;">
+      <h3>Frontend Developer | React.js | Next.js | Tailwind CSS | Bootstrap</h3>
+      <p>
+        I'm a passionate **4th-year Computer Engineering student** specializing in **React.js** and **Next.js**. I am dedicated to building **scalable**, **user-friendly** web applications that solve complex problems and deliver an exceptional **user experience**.
+      </p>
+      <p>
+        I enjoy creating dynamic and responsive interfaces while ensuring smooth performance and cross-browser compatibility. Always keen on learning, I continuously expand my skill set to stay ahead in the fast-paced tech world.
+      </p>
+    </div>
+    <div>
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="200" />
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -44,7 +51,7 @@ I enjoy creating dynamic and responsive interfaces while ensuring smooth perform
 
 ---
 
-### 📫 How to Reach Me:
+### 📫 How to Reach Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-osama-8b2b27245" target="_blank">
